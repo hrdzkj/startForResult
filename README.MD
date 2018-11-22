@@ -25,8 +25,6 @@ dependencies {
 ```
 ## Usage
 
-### Basic
-
 To begin using this Optional, it's like using java.util.Optional:
 
 
