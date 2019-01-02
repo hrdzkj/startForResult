@@ -68,6 +68,7 @@ install {
     }
 }
 
+
 // This generates sources.jar
 task sourcesJar(type: Jar) {
     from android.sourceSets.main.java.srcDirs
@@ -102,7 +103,6 @@ javadoc {
     }
 }
 
-// bintray configuration
 bintray {
     user = bintrayUser
     key = bintrayApikey

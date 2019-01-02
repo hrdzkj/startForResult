@@ -3,7 +3,6 @@ package com.hrdzkj.startforresultsample;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
 
 /**
  * Created by LiuYi on 2018/11/22.
