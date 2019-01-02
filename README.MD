@@ -20,7 +20,7 @@ allprojects {
 add the following dependency to your app module `build.gradle`  file:
 ```groovy
 dependencies {
-    implementation 'com.hrdzkj:startForResult:0.1'
+    implementation 'com.hrdzkj:startForResult:1.0'
 }
 ```
 ## Usage
