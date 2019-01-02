@@ -25,8 +25,6 @@ dependencies {
 ```
 ## Usage
 
-To begin using this Optional, it's like using java.util.Optional:
-
 
 ```java
         Intent intent = new Intent(MainActivity.this,ToActivity.class);
